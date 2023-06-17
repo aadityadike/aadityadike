@@ -1,5 +1,5 @@
 # Hi 👋 I am Aditya Dike
-## Web App Developer
+## Web Developer
 Hey, I'm Aditya and I am currently pursuing a BCA degree. I am in my second year right now and I have completed the basics of frontend and built small projects. However, my interest lies more towards backend and devops-related stuff. I hope to find guidance here so that I can focus on my interests.
 
 * 🌍  I'm based in India
