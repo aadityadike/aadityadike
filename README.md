@@ -10,7 +10,7 @@ Hey, I'm Aditya and I am currently pursuing a BCA degree. I am in my second year
 * 🤝  I'm open to collaborating on Devops related projects
 * ⚡ Fun fact: I like Books & Animes
 
-[![Github Follow](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadityadike)
+
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityastwt1)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityadike/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]( https://adityadike.hashnode.dev/)
