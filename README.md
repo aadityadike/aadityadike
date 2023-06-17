@@ -18,25 +18,33 @@ Hey, I'm Aditya and I am currently pursuing a BCA degree. I am in my second year
 
 
 <h3 align="left">Skills:</h3>
+<h3 align="left"> Programming Languages: </h3>
 <p align="left">
-
 <a href="https://golang.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="GO" /></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="JAVA" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TYPESCRIPT" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a> 
+ </p>
+ <h3 align="left">Frameworks & Libraries: </h3>
+ <p align="left">
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="REACT" /></a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="REDUX" /></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NEXTJS" /></a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TAILWINDCSS" /></a> 
 <a href="https://material-ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MATERIALUI" /></a> 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GRAPHQL" /></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MONGODB" /></a> 
+   </p>
+  <h3 align="left">Other Technologies: </h3>
+  <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
-
-</p>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GRAPHQL" /></a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" width="36" height="36" alt="NEXTJS" /></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/npm.svg" width="36" height="36" alt="NEXTJS" /></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/visualstudio.svg" width="36" height="36" alt="NEXTJS" /></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="color:blue"><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/linux.svg" width="36" height="36" alt="NEXTJS" /></a> 
+  </p>
 
 
 
