@@ -8,7 +8,7 @@ Hey, I'm Aditya and I am currently pursuing a BCA degree. I am in my second year
 * ✉️  You can reach me at [adityadike90@gmail.com](mailto:adityadike90@gmail.com)
 * 🧠  I'm currently learning Devops & Cloud Technologies
 * 🤝  I'm open to collaborating on Devops related projects
-* ⚡ Fun fact: I like Books & Animes
+* ⚡ Fun fact: I like Books, chess & Animes
 
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityastwt1)
