@@ -1,6 +1,6 @@
 # Hi 👋 I am Aditya Dike
 ## Web Developer
-Hey, I'm Aditya and I am currently pursuing a BCA degree. I am in my Third year right now and I have completed the basics of frontend and built small projects. However, my interest lies more towards backend and devops-related stuff. I hope to find guidance here so that I can focus on my interests.
+Aditya wants to become a Full Stack Developer. He's truly passionate about Open Source and DevOps tasks, and he loves sharing his experiences through writing.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [adityadike](https://bento.me/adityadike)
