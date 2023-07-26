@@ -1,16 +1,13 @@
 # Hi 👋 I am Aditya Dike
 
-## Web Developer
 
 Aditya wants to become a Full Stack Developer. He's truly passionate about Open Source and DevOps tasks, and he loves sharing his experiences through writing.
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [adityadike](https://bento.me/adityadike)
-- 👨‍💻  I'm currently working on [AnimeList](https://github.com/aadityadike/AnimeList)
-- ✉️  You can reach me at [adityadike90@gmail.com](mailto:adityadike90@gmail.com)
 - 🧠  I'm currently learning Devops & Cloud Technologies
-- 🤝 I'm open to collaborating on Devops related projects
 - ⚡ Fun fact: I like Books, chess & Animes
+
+
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityastwt1)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityadike/)
