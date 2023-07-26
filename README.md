@@ -13,7 +13,7 @@ Aditya wants to become a Full Stack Developer. He's truly passionate about Open 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityadike/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://adityadike.hashnode.dev/)
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills:</h2>
 <h3 align="left"> Programming Languages: </h3>
 <p align="left">
 <a href="https://golang.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="GO" /></a>
