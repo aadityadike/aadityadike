@@ -3,9 +3,9 @@
 
 Aditya wants to become a Full Stack Developer. He's truly passionate about Open Source and DevOps tasks, and he loves sharing his experiences through writing.
 
-- 🌍  I'm based in India
-- 🧠  I'm currently learning Devops & Cloud Technologies
-- ⚡ Fun fact: I like Books, chess & Animes
+- 🌍  I'm based in India.
+- 🧠  I'm currently learning Devops & Cloud Technologies.
+- ⚡ Fun fact: I like Books, chess & Animes.
 
 
 
