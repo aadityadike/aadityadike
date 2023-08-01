@@ -8,9 +8,11 @@
 </div>
 <br/>
 <div align="center">
-  <p>
+  <p> <strong>
   I am passionate about DevOps and Full Stack development, especially within the development of web applications and the integration of DevOps tools. I like to contribute to the Open Source and    engaging in the Cloud-native ecosystem. 
+  </strong>
   </p>
+    
 </div>
 <br/>
 <h3>My Latest Blog Posts 👇</h3>
