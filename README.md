@@ -30,6 +30,7 @@
      In this post, you will learn about bash scripting, Linux commands, and vim, all through a completely hands-on approach...
   </p>
 <br/>
+<br/>
   <p>
     <a href="https://adityadike.hashnode.dev/unlocking-javas-string-secret-the-truth-about-immutability">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689919874627/4afbab00-3bfb-4628-a537-2fe10b2c50fc.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Automate Your Tasks with Bash Scripts: A Practical Guide for Beginners" width="250px" align="left">
