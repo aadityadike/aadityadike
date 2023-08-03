@@ -21,7 +21,7 @@
 <div> 
   <p>
     <a href="https://adityadike.hashnode.dev/the-revolutionary-language-for-todays-developers">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690261124888/75aa5125-485e-474a-bbd0-7d4ef0309ba9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Revolutionary Language for Today's Developers" width="250px" align="left"> <br/>
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690261124888/75aa5125-485e-474a-bbd0-7d4ef0309ba9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Revolutionary Language for Today's Developers" width="250px" align="left">
     </a>
     <a href="https://adityadike.hashnode.dev/the-revolutionary-language-for-todays-developers" title="The Revolutionary Language for Today's Developers">
       <strong>The Revolutionary Language for Today's Developers</strong>
