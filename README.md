@@ -19,6 +19,18 @@
 
 <!-- HASHNODE_BLOG:START -->
 <div> 
+  <p>
+    <a href="https://adityadike.hashnode.dev/docker-101-things-to-know-before-you-begin">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691393039019/8ec50134-2c83-40d6-9a61-711fe519eea5.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Docker 101: Things to Know Before You Begin" width="250px" align="left">
+    </a>
+    <a href="https://adityadike.hashnode.dev/docker-101-things-to-know-before-you-begin" title="Docker 101: Things to Know Before You Begin">
+      <strong>Docker 101: Things to Know Before You Begin</strong>
+    </a>
+    <div><strong>9 August 2023</strong></div>
+    In this blog, we are going to learn some important things you need to know before diving into Docker...
+  </p>
+  <br/>
+  <br/>
    <p>
     <a href="https://adityadike.hashnode.dev/behind-the-curtain-the-osi-models-role-in-modern-computer-networking">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689318930858/603d361d-98bb-4bc1-a379-63d544e08928.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Behind the Curtain: The OSI Model's Role in Modern Computer Networking" width="250px" align="left">
@@ -29,26 +41,8 @@
     <div><strong>5 August 2023</strong></div>
      In this post, we will explore OSI models - a fundamental concept in computer networking. In this blog, I aim to cover all aspects of OSI models...
   </p>
-<br/>
-<br/>
-   <p>
-    <a href="https://adityadike.hashnode.dev/the-revolutionary-language-for-todays-developers">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690261124888/75aa5125-485e-474a-bbd0-7d4ef0309ba9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Revolutionary Language for Today's Developers" width="250px" align="left">
-    </a>
-    <a href="https://adityadike.hashnode.dev/the-revolutionary-language-for-todays-developers" title="The Revolutionary Language for Today's Developers">
-      <strong>The Revolutionary Language for Today's Developers</strong>
-    </a>
-    <div><strong>3 August 2023</strong></div>
-    If you want to learn a language that is fast, efficient, and follows modern infrastructure...
-  </p>
 </div>
 <!-- HASHNODE_BLOG:END -->
-
-
-
-
-
-
 
 
 
