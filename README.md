@@ -19,6 +19,20 @@
 
 <!-- HASHNODE_BLOG:START -->
 <div> 
+    <p>
+    <a href="https://adityadike.hashnode.dev/kubernetes-for-noobs">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696067772576/13164d89-db98-46b2-930b-2e2c23597bf0.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Kubernetes For Noobs ☸️" width="250px" align="left">
+    </a>
+    <a href="https://adityadike.hashnode.dev/kubernetes-for-noobs" title="Kubernetes For Noobs ☸️">
+      <strong>Kubernetes For Noobs ☸️</strong>
+    </a>
+    <div><strong>14 August 2023</strong></div>
+    Hey folks, since you've clicked on this post, I assume that you are a beginner and you want to understand what Kubernetes is and why it is so popular. let's delve deep into.....
+  </p>
+  
+  <br/>
+  <br/>
+  
   <p>
     <a href="https://adityadike.hashnode.dev/what-are-protocols-anyway">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692105635425/c322e7e0-f368-4ea0-9df4-f3a79f7db1c0.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What Are Protocols, Anyway?" width="250px" align="left">
@@ -31,16 +45,6 @@
   </p>
   <br/>
   <br/>
-   <p>
-    <a href="https://adityadike.hashnode.dev/linux-building-blocks-for-docker">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691895115677/e406a91d-8b2d-40fd-9390-964b39033ac3.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Linux Building blocks for Docker" width="250px" align="left">
-    </a>
-    <a href="https://adityadike.hashnode.dev/linux-building-blocks-for-docker" title="Linux Building blocks for Docker">
-      <strong>Linux Building blocks for Docker</strong>
-    </a>
-    <div><strong>14 August 2023</strong></div>
-     Docker uses fundamental Linux principles to implement container technology, including Cgroups, namespaces, and the union file system. Let's take a closer look at each of these blocks....
-  </p>
 </div>
 <!-- HASHNODE_BLOG:END -->
 
