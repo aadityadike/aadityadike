@@ -19,6 +19,19 @@
 
 <!-- HASHNODE_BLOG:START -->
 <div> 
+    
+  <p>
+    <a href="https://adityadike.hashnode.dev/understanding-kubernetes-architecture">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696506006465/06b2d292-0812-477b-b999-6ffef31ed927.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Understanding Kubernetes Architecture" width="250px" align="left">
+    </a>
+    <a href="https://adityadike.hashnode.dev/understanding-kubernetes-architecture" title="Understanding Kubernetes Architecture">
+      <strong>Understanding Kubernetes Architecture</strong>
+    </a>
+    <div><strong>5 October 2023</strong></div>
+    Let's look at the architecture of Kubernetes. In Kubernetes, we have two very important concepts...
+  </p>
+  <br/>
+  <br/>
     <p>
     <a href="https://adityadike.hashnode.dev/kubernetes-for-noobs">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696067772576/13164d89-db98-46b2-930b-2e2c23597bf0.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Kubernetes For Noobs ☸️" width="250px" align="left">
@@ -30,19 +43,6 @@
     Hey folks, since you've clicked on this post, I assume that you are a beginner and you want to understand what Kubernetes is and why it is so popular. let's delve deep into.....
   </p>
   
-  <br/>
-  <br/>
-  
-  <p>
-    <a href="https://adityadike.hashnode.dev/what-are-protocols-anyway">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692105635425/c322e7e0-f368-4ea0-9df4-f3a79f7db1c0.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What Are Protocols, Anyway?" width="250px" align="left">
-    </a>
-    <a href="https://adityadike.hashnode.dev/what-are-protocols-anyway" title="What Are Protocols, Anyway?">
-      <strong>What Are Protocols, Anyway?</strong>
-    </a>
-    <div><strong>15 August 2023</strong></div>
-   How it's possible that requesting a video, text, or an entire website yields the correct response? The answer lies in protocols...
-  </p>
   <br/>
   <br/>
 </div>
