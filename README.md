@@ -40,7 +40,7 @@
       <strong>Kubernetes For Noobs ☸️</strong>
     </a>
     <div><strong>1 October 2023</strong></div>
-    Hey folks, since you've clicked on this post, I assume that you are a beginner and you want to understand what Kubernetes is and why it is so popular. let's delve deep into.....
+    Hey folks, since you've clicked on this post, I assume that you are a beginner and you want to understand what Kubernetes is and why it is so popular. let's delve deep into....
   </p>
   
   <br/>
